@@ -1,0 +1,14 @@
+C:\Users\frana\OneDrive\Documentos2\Thiago\livraria\livraria\bin\Debug\netcoreapp3.1\livraria.exe
+C:\Users\frana\OneDrive\Documentos2\Thiago\livraria\livraria\bin\Debug\netcoreapp3.1\livraria.deps.json
+C:\Users\frana\OneDrive\Documentos2\Thiago\livraria\livraria\bin\Debug\netcoreapp3.1\livraria.runtimeconfig.json
+C:\Users\frana\OneDrive\Documentos2\Thiago\livraria\livraria\bin\Debug\netcoreapp3.1\livraria.runtimeconfig.dev.json
+C:\Users\frana\OneDrive\Documentos2\Thiago\livraria\livraria\bin\Debug\netcoreapp3.1\livraria.dll
+C:\Users\frana\OneDrive\Documentos2\Thiago\livraria\livraria\bin\Debug\netcoreapp3.1\livraria.pdb
+C:\Users\frana\OneDrive\Documentos2\Thiago\livraria\livraria\obj\Debug\netcoreapp3.1\livraria.csproj.AssemblyReference.cache
+C:\Users\frana\OneDrive\Documentos2\Thiago\livraria\livraria\obj\Debug\netcoreapp3.1\livraria.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\frana\OneDrive\Documentos2\Thiago\livraria\livraria\obj\Debug\netcoreapp3.1\livraria.AssemblyInfoInputs.cache
+C:\Users\frana\OneDrive\Documentos2\Thiago\livraria\livraria\obj\Debug\netcoreapp3.1\livraria.AssemblyInfo.cs
+C:\Users\frana\OneDrive\Documentos2\Thiago\livraria\livraria\obj\Debug\netcoreapp3.1\livraria.csproj.CoreCompileInputs.cache
+C:\Users\frana\OneDrive\Documentos2\Thiago\livraria\livraria\obj\Debug\netcoreapp3.1\livraria.dll
+C:\Users\frana\OneDrive\Documentos2\Thiago\livraria\livraria\obj\Debug\netcoreapp3.1\livraria.pdb
+C:\Users\frana\OneDrive\Documentos2\Thiago\livraria\livraria\obj\Debug\netcoreapp3.1\livraria.genruntimeconfig.cache
